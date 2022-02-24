@@ -2,7 +2,7 @@
 
 ![Sarathi App logo ](images/logo.png)
 
-## Contents
+## Contents 
 
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
